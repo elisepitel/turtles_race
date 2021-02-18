@@ -11,6 +11,7 @@ Inform the color of the turtle you want to big on.
 - blue
 - purple 
 
+https://github.com/elisepitel/turtles_race/blob/main/turtle_race.jpg
 Encourage your turtle !
 
 
