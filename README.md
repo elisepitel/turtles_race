@@ -26,4 +26,4 @@ https://repl.it/@ElisePitel/turtlesrace#main.py
 
 ### Improves to do in the future: 
 - Insert replay button
-- 🐛 : sometimes the winner turtle can have the head within the right wall
+- 🐛 : sometimes the winner turtle can have its head within the right wall
