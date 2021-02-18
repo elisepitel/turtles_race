@@ -3,6 +3,8 @@ Race between 6 turtles, on every calculation's round the number of path of each 
 
 
 Inform the color of the turtle you want to big on. 
+![turtle_race](turtle_color.jpg)
+
 🐢Turtle's colors availables are rainbow's colors🌈: 
 - red
 - orange
@@ -11,7 +13,9 @@ Inform the color of the turtle you want to big on.
 - blue
 - purple 
 
-turtle_race(../turtle_race.jpg)
+
+
+![turtle_race](turtle_race.jpg)
 Encourage your turtle !
 
 
